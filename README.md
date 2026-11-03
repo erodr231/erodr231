@@ -1,7 +1,8 @@
 # Hi! I’m Emely 👋
 UI/UX Design · Web Development
 
-<img width="708" height="960" alt="emr-logo-jitter" src="https://github.com/user-attachments/assets/6118f8e1-3294-4028-aa06-bce718683506" />
+<img width="250" height="339" alt="emr-logo-jitter" src="https://github.com/user-attachments/assets/46b8a199-d536-4074-b0fe-eb31bb41721a" />
+
 
 ### About Me
 I'm a Graphic Information Technology student at Arizona State University focused on UI/UX design and front-end development. 
