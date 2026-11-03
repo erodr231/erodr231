@@ -1,7 +1,8 @@
+<img width="125" height="170" alt="emr-logo-jitter" src="https://github.com/user-attachments/assets/adad25e5-f9b2-40c8-8116-45e545261ce7" />
+
 # Hi! I’m Emely 👋
 UI/UX Design · Web Development
 
-<img width="250" height="339" alt="puzzle piece logo" src="https://github.com/user-attachments/assets/46b8a199-d536-4074-b0fe-eb31bb41721a" />
 
 
 ### About Me
@@ -13,13 +14,14 @@ I enjoy combining visual design and usability to create intuitive, engaging digi
 **Development**: HTML, CSS, JavaScript
 **Tools**: Git, GitHub
 
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css,js,git,github" alt="skills">
 
 ### Featured Projects
-- **MTea Website Redesign** – A boba shop website redesign built with HTML, CSS, and JavaScript. 
-- **tomate.lol** — A customizable Pomodoro timer web application.
+- **[MTea Website Redesign](https://github.com/erodr231/mtea-redesign)** – A boba shop website redesign built with HTML, CSS, and JavaScript. 
+- **[tomate.lol](https://github.com/erodr231/tomate.lol)** — A customizable Pomodoro timer web application.
 
 ### Contact and Links
-[Portfolio] · [LinkedIn] · [Email] · [Letterboxd]
+[Portfolio](https://www.rodriguezemely.com/) · [LinkedIn](https://www.linkedin.com/in/emely-rodriguez-825b9527a/) · [Email](mailto:emro0311@gmail.com) · [Letterboxd](https://letterboxd.com/rib__bit/)
 
 
 
