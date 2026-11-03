@@ -1,7 +1,7 @@
 # Hi! I’m Emely 👋
 UI/UX Design · Web Development
 
-<img width="250" height="339" alt="emr-logo-jitter" src="https://github.com/user-attachments/assets/46b8a199-d536-4074-b0fe-eb31bb41721a" />
+<img width="250" height="339" alt="puzzle piece logo" src="https://github.com/user-attachments/assets/46b8a199-d536-4074-b0fe-eb31bb41721a" />
 
 
 ### About Me
